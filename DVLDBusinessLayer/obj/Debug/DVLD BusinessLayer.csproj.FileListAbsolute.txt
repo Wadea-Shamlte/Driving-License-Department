@@ -1,0 +1,18 @@
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\obj\Debug\DVLD BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\obj\Debug\DVLD BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.dll
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\bin\Debug\DVLD DataAccessLayer.dll
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\bin\Debug\DVLD DataAccessLayer.pdb
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.dll
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb
+C:\Users\wadea\OneDrive\Desktop\DVLD System\DVLDBusinessLayer\obj\Debug\DVLD Bus.45CB162F.Up2Date
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.dll
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\bin\Debug\DVLD DataAccessLayer.dll
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\bin\Debug\DVLD DataAccessLayer.pdb
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\obj\Debug\DVLD BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\obj\Debug\DVLD BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\obj\Debug\DVLD Bus.45CB162F.Up2Date
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.dll
+C:\Users\wadea\OneDrive\Desktop\DVLD System - Copy\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb
